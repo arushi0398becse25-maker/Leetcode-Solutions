@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
