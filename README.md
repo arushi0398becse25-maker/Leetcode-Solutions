@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Math
+|  |
+| ------- |
+| [3876-construct-uniform-parity-array-ii](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
