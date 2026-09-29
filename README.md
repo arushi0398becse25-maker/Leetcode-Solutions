@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Design
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3876-construct-uniform-parity-array-ii](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
