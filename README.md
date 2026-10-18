@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
