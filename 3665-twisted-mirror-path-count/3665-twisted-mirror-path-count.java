@@ -1,0 +1,30 @@
+
+
+class Solution {
+    public int uniquePaths(int[][] grid) {
+        int MOD = 1000000007;
+        int m = grid.length;
+        int n = grid[0].length;
+
+        int[] dp = new int[n];
+        dp[0] = 1;
+
+        for (int i = 0; i < m; i++) {
+            int left = 0;
+
+            for (int j = 0; j < n; j++) {
+
+                if (grid[i][j] == 1) {
+                    int temp = dp[j];
+                    dp[j] = left;
+                    left = temp;
+                } else {
+                    left = (left + dp[j]) % MOD;
+                    dp[j] = left;
+                }
+            }
+        }
+
+        return dp[n - 1];
+    }
+}
