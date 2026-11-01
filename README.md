@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0704-binary-search](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1254-number-of-closed-islands](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
