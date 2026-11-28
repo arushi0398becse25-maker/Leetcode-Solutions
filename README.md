@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0136-single-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
