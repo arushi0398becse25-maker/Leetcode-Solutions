@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -374,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/arushi0398becse25-maker/Leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
